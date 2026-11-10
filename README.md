@@ -20,7 +20,7 @@ Visual Studio Code (Entorno de desarrollo)
 │   ├── contacto_vs_suscripcion.png
 │   ├── income_vs_y.png
 │   └── webvisits_vs_y.png
-├── InformeEDA.word/  
+├── InformeEDA.docx/  
 └── README.md                  # Documentación del proyecto e informe final
 
 
